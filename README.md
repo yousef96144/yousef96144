@@ -31,7 +31,7 @@
 [<img align="left" alt="yousef | Mail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/2048px-Mail_%28iOS%29.svg.png" />][Mail]
 
 [linkedin]: https://www.linkedin.com/in/yousef-elaidy-050b73271
-[Mail]:  https://yousefelaidy24@gmail.com
+[Mail]:  mailto:yousefelaidy24@gmail.com
 
 
 <!--
