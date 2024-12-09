@@ -30,8 +30,8 @@
 [<img align="left" alt="yousef | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][LinkedIn]
 [<img align="left" alt="yousef | Mail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/2048px-Mail_%28iOS%29.svg.png" />][Mail]
 
-[linkedin]: www.linkedin.com/in/yousef-elaidy-050b73271
-[Mail]: yousefelaidy24@gmail.com
+[linkedin]: https://www.linkedin.com/in/yousef-elaidy-050b73271
+[Mail]:  https://yousefelaidy24@gmail.com
 
 
 <!--
