@@ -15,23 +15,24 @@
 
 <h2> 📄 Certifications</h2>
 
-- [Bachelor degree in Computer Science]
-- [IOS Mobile Application Development at ITI]
-- [How to Create a KeyLogger (C#)]
-- [Ransomware Demonstration (C#)]
-- [Is WGU Legit?]
+- [Bachelor degree in Computer Science]()
+- [IOS App Development (150 hrs) at ITI]()
+- [Meta iOS Developer Professional Certificate](https://www.coursera.org/account/accomplishments/verify/PXQ4QDL322WH)
+- [IOS Application development using Swift (MaharaTech)]()
+- [IOS Architecture Design Pattern (MaharaTech)]()
+- [Exploring SwiftUI: Creating Declarative User Interfaces]()
+- [Summer Training program ( level 1 ) (ITI)]()
+
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[<img align="left" alt="yousef | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][LinkedIn]
+[<img align="left" alt="yousef | Mail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/2048px-Mail_%28iOS%29.svg.png" />][Mail]
+
+[linkedin]: www.linkedin.com/in/yousef-elaidy-050b73271
+[Mail]: yousefelaidy24@gmail.com
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
