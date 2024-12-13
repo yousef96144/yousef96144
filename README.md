@@ -14,13 +14,13 @@
 
 <h2> 📄 Certifications</h2>
 
--🥇 [Bachelor degree in Computer Science](https://drive.google.com/file/d/19JHkA9T95TcgpEM8N2zjX3Af_L-BCkJi/view?usp=drive_link)
--🥇 [IOS App Development (150 hrs) at ITI](https://drive.google.com/file/d/1GruDC9dza54qnE-Gz4LzaXU2KidYifPY/view?usp=drive_link)
--🥇 [Meta iOS Developer Professional Certificate](https://www.coursera.org/account/accomplishments/verify/PXQ4QDL322WH)
--🥇 [IOS Application development using Swift (MaharaTech)](https://drive.google.com/file/d/1czSsCXyjmrEoXfNlDArpmzSNCZ-PraJA/view?usp=drive_link)
--🥇 [IOS Architecture Design Pattern (MaharaTech)](https://drive.google.com/file/d/17k8PALDYH1x_AHlJCCeBbDHpqdJNRsCe/view?usp=drive_link)
--🥇 [Exploring SwiftUI: Creating Declarative User Interfaces](https://drive.google.com/file/d/1OjwDmGHkrUJz7omr6sWmYP6Z8sIDZ_V6/view?usp=drive_link)
--🥇 [Summer Training program ( level 1 ) (ITI)](https://drive.google.com/file/d/1czSsCXyjmrEoXfNlDArpmzSNCZ-PraJA/view?usp=drive_link)
+- 🥇 [Bachelor degree in Computer Science](https://drive.google.com/file/d/19JHkA9T95TcgpEM8N2zjX3Af_L-BCkJi/view?usp=drive_link)
+- 🥇 [IOS App Development (150 hrs) at ITI](https://drive.google.com/file/d/1GruDC9dza54qnE-Gz4LzaXU2KidYifPY/view?usp=drive_link)
+- 🥇 [Meta iOS Developer Professional Certificate](https://www.coursera.org/account/accomplishments/verify/PXQ4QDL322WH)
+- 🥇 [IOS Application development using Swift (MaharaTech)](https://drive.google.com/file/d/1czSsCXyjmrEoXfNlDArpmzSNCZ-PraJA/view?usp=drive_link)
+- 🥇 [IOS Architecture Design Pattern (MaharaTech)](https://drive.google.com/file/d/17k8PALDYH1x_AHlJCCeBbDHpqdJNRsCe/view?usp=drive_link)
+- 🥇 [Exploring SwiftUI: Creating Declarative User Interfaces](https://drive.google.com/file/d/1OjwDmGHkrUJz7omr6sWmYP6Z8sIDZ_V6/view?usp=drive_link)
+- 🥇 [Summer Training program ( level 1 ) (ITI)](https://drive.google.com/file/d/1czSsCXyjmrEoXfNlDArpmzSNCZ-PraJA/view?usp=drive_link)
 
 
 <h2> 🤳 Connect with me:</h2>
